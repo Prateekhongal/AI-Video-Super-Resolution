@@ -8,6 +8,9 @@ Pillow:5.3.0
 
 Numpy:1.15.4
 
+# Datasets
+It is suggested to use Vimeo-90K dataset http://toflow.csail.mit.edu/ for training and Vid4 dataset https://paperswithcode.com/sota/video-super-resolution-on-vid4-4x-upscaling for testing.
+
 # Data folder
 Low-resolution:
 
