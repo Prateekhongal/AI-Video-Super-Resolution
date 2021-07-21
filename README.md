@@ -23,8 +23,6 @@ Original-resolution:
 
 ./data/y_valid_data/: The HR frames which will be used in valid stage coresponde to ./data/x_valid_data4x/
 
-Another folders
-
 Results of output:
 
 ./result_test/: The output frames after VSR-DUF processing
